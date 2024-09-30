@@ -5,6 +5,7 @@ The video CyberSecurityEductationalGameDemo will provide a quick review of the p
 This project will be free of access by sending the request form to Dr. Yan Huang (Yan.Huang@kennesaw.edu) and Dr. Joy Li (Joy.Li@kennesaw.edu). The project builds will be sent back in 24 business hours. You can follow the instruction to install the builds to your devices.
 
 The project is developed by undergraduate student assistants:
+
 John Murphy, Connor McClelland, Andre Bryan,
 
 Logan Thompson, Chase Randalow, Grant Reeder, Johnathan Lee,
