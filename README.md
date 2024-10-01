@@ -5,16 +5,9 @@ The video CyberSecurityEductationalGameDemo will provide a quick review of the p
 This project will be free of access by sending the request form to Dr. Yan Huang (Yan.Huang@kennesaw.edu) and Dr. Joy Li (Joy.Li@kennesaw.edu). The project builds will be sent back in 24 business hours. You can follow the instruction to install the builds to your devices.
 
 The project is developed by undergraduate student assistants:
+John Murphy, Connor McClelland, Andre Bryan, Logan Thompson, Chase Randalow, Grant Reeder, Johnathan Lee, Samuel Ayeni, Rahman Nafiu, Kawika Hodge, Guadalupe Ramirez, Phillip Yniguez, Kylie Nowokunski, Neil Weingarten, Tyler Crawford, JaDante Hendrick, Krystale Williams, Ian Skoonberg, Antonio Brewer, Kalil Masters, Michael Leung, Aiden Gohlke, Sam Deason, Scott Halbert, Jaeleon Merrill
 
-John Murphy, Connor McClelland, Andre Bryan,
+The tutorial can be found
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=DObUimxGHMI "Cyber Security Park Tutorial")
 
-Logan Thompson, Chase Randalow, Grant Reeder, Johnathan Lee,
-
-Samuel Ayeni, Rahman Nafiu, Kawika Hodge, Guadalupe Ramirez, 
-
-Phillip Yniguez, 
-
-Kylie Nowokunski, Neil Weingarten, Tyler Crawford, JaDante Hendrick
-
-Krystale Williams, Ian Skoonberg, Antonio Brewer, Kalil Masters, Michael Leung, Aiden Gohlke, Sam Deason, Scott Halbert, Jaeleon Merrill
-
+ 
