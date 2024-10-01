@@ -9,6 +9,8 @@ John Murphy, Connor McClelland, Andre Bryan, Logan Thompson, Chase Randalow, Gra
 
 Click the picture below to see the tutorial:
 
+[![Watch the video](http://img.youtube.com/vi/DObUimxGHMI/0.jpg)](https://youtu.be/DObUimxGHMI)
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/DObUimxGHMI/0.jpg)](http://www.youtube.com/watch?v=DObUimxGHMI "Cyber Security Park Tutorial")
 
  
