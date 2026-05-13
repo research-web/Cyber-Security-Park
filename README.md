@@ -7,11 +7,12 @@ This project will be free of access by sending the request form to Dr. Yan Huang
 The project is developed by undergraduate student assistants:
 John Murphy, Connor McClelland, Andre Bryan, Logan Thompson, Chase Randalow, Grant Reeder, Johnathan Lee, Samuel Ayeni, Rahman Nafiu, Kawika Hodge, Guadalupe Ramirez, Phillip Yniguez, Ian McConnell, Kylie Nowokunski, Neil Weingarten, Tyler Crawford, JaDante Hendrick, Krystale Williams, Ian Skoonberg, Antonio Brewer, Kalil Masters, Michael Leung, Aiden Gohlke, Sam Deason, Scott Halbert, Jaeleon Merrill
 
-Click the picture below to see the tutorial:
+Click the picture below to see the **tutorial video**:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/DObUimxGHMI/0.jpg)](http://www.youtube.com/watch?v=DObUimxGHMI "Cyber Security Park Tutorial")
 
 
-Click the picture below to see the play experience:
+Click the picture below to see the **play experience video**:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_1hEDeqjxOc/0.jpg)](http://www.youtube.com/watch?v=_1hEDeqjxOc "Cyber Security Park Tutorial")
+
