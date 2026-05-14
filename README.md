@@ -16,3 +16,7 @@ Click the picture below to see the **play experience video**:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_1hEDeqjxOc/0.jpg)](http://www.youtube.com/watch?v=_1hEDeqjxOc "Cyber Security Park Tutorial")
 
+Click the picture below to see the **play training video**:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/rR40f0OMdeE/0.jpg)](http://www.youtube.com/watch?v=rR40f0OMdeE "Play Training Video")
+
